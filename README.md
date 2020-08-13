@@ -1,10 +1,10 @@
-# Web Scrapping
+# Web Scraping (Mineração de dados na web) 
 
-## Consumindo dados de outro site usando Pupperteer
+#### Consumindo dados de outro site usando Pupperteer
 
-## Para executar o projeto
-  ## Instale as dependências executando em seu terminal o comando
+#### Para executar o projeto
+  ##### Instale as dependências executando em seu terminal o comando
   - yarn
 
-  ## Rode o projeto executando o comando
+  ##### Rode o projeto executando o comando
   - npx lite-server
